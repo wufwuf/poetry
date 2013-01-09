@@ -1,0 +1,27 @@
+total 8
+drwxr-xr-x@  10 tlberglund  staff   340 Dec 21 14:24 Box Documents
+drwx------+   8 tlberglund  staff   272 Jan  8 15:35 Desktop
+drwx------+  49 tlberglund  staff  1666 Dec 11 07:29 Documents
+drwx------+  37 tlberglund  staff  1258 Jan  8 19:14 Downloads
+drwxr-xr-x    3 tlberglund  staff   102 Jan  1 12:25 Dropbox
+drwxr-xr-x    4 tlberglund  staff   136 Dec  3 23:39 Dropbox-github
+drwxr-xr-x    4 tlberglund  staff   136 Dec  5 23:04 Dropbox-personal
+drwx------@  57 tlberglund  staff  1938 Dec 27 16:53 Library
+drwx------+  27 tlberglund  staff   918 Jan  1 11:26 Movies
+drwx------+   9 tlberglund  staff   306 Sep 26 11:19 Music
+drwx------   53 tlberglund  staff  1802 Jul 26 09:32 Old Personal Documents
+drwx------+  52 tlberglund  staff  1768 Dec  8 10:35 Pictures
+drwxr-xr-x+   5 tlberglund  staff   170 Jul 25 16:13 Public
+drwxr-xr-x   60 tlberglund  staff  2040 Dec 24 07:16 Purchased Software
+drwxr-xr-x   12 tlberglund  staff   408 Dec  1 17:28 Tools
+drwxr-xr-x  114 tlberglund  staff  3876 Oct 30 10:59 code
+drwxr-xr-x    3 tlberglund  staff   102 Aug 10 12:36 eclipse-workspace
+drwxr-xr-x    4 tlberglund  staff   136 Jul 26 09:03 emacs-starter-kit.git
+drwxr-xr-x   25 tlberglund  staff   850 Nov 13 16:28 github
+drwxr-xr-x    3 tlberglund  staff   102 Nov  1 09:49 groovy-liquibase.git.svn
+-rwxr-xr-x    1 root        staff   165 Dec 17 17:06 install_lp.html
+drwxr-xr-x    6 tlberglund  staff   204 Jul 26 09:32 poems
+drwxr-xr-x   17 tlberglund  staff   578 Nov 13 07:45 scripts
+drwxr-xr-x   28 tlberglund  staff   952 Oct  5 23:51 timberglund.com
+drwxr-xr-x   16 tlberglund  staff   544 Jul 26 12:46 workshops
+drwxr-xr-x    7 tlberglund  staff   238 Oct  5 20:43 zachberglund.com
